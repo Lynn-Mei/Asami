@@ -1,0 +1,54 @@
+<NotepadPlus>
+    <Project name="Asami">
+        <Folder name="src">
+            <File name="logic\src\main.rs" />
+            <Folder name="Document">
+                <File name="logic\src\Document\document.rs" />
+                <File name="logic\src\Document\paragraph.rs" />
+            </Folder>
+        </Folder>
+        <Folder name="target">
+            <Folder name="debug">
+                <Folder name=".fingerprint">
+                    <Folder name="logic-a92a6757882a6539">
+                        <File name="logic\target\debug\.fingerprint\logic-a92a6757882a6539\bin-logic" />
+                        <File name="logic\target\debug\.fingerprint\logic-a92a6757882a6539\bin-logic.json" />
+                        <File name="logic\target\debug\.fingerprint\logic-a92a6757882a6539\dep-bin-logic" />
+                        <File name="logic\target\debug\.fingerprint\logic-a92a6757882a6539\invoked.timestamp" />
+                    </Folder>
+                </Folder>
+                <Folder name="build" />
+                <Folder name="deps">
+                    <File name="logic\target\debug\deps\logic.d" />
+                    <File name="logic\target\debug\deps\logic.exe" />
+                    <File name="logic\target\debug\deps\logic.pdb" />
+                </Folder>
+                <Folder name="examples" />
+                <Folder name="incremental">
+                    <Folder name="logic-mzoyfusvsev6">
+                        <Folder name="s-grymznbqpx-xptk3e-1dyzytujlb6mj">
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\2unnkyli34lvb87.o" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\4qbkp8cunih5tyrq.o" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\50nj22djty37fd6x.o" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\53lxyiscgojn733l.o" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\53x2gjg15c3fq61k.o" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\dep-graph.bin" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\query-cache.bin" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\td8ig9rgh5hx0xu.o" />
+                            <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e-1dyzytujlb6mj\work-products.bin" />
+                        </Folder>
+                        <File name="logic\target\debug\incremental\logic-mzoyfusvsev6\s-grymznbqpx-xptk3e.lock" />
+                    </Folder>
+                </Folder>
+                <File name="logic\target\debug\.cargo-lock" />
+                <File name="logic\target\debug\logic.d" />
+                <File name="logic\target\debug\logic.exe" />
+                <File name="logic\target\debug\logic.pdb" />
+            </Folder>
+            <File name="logic\target\.rustc_info.json" />
+            <File name="logic\target\CACHEDIR.TAG" />
+        </Folder>
+        <File name="logic\Cargo.lock" />
+        <File name="logic\Cargo.toml" />
+    </Project>
+</NotepadPlus>
